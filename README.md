@@ -9,10 +9,10 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tokawa-ms&show_icons=true&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tokawa-ms&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokawa-ms&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokawa-ms&theme=tokyonight&count_private=true" />
 </a>
 
 <!---
