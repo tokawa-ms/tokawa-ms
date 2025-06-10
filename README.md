@@ -1,4 +1,10 @@
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/tokawa-ms/posts.svg)](http://qiita.com/tokawa-ms) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/tokawa-ms/contributions.svg)](http://qiita.com/tokawa-ms) [![My Qiita followers](https://qiita-badge.apiapi.app/s/tokawa-ms/followers.svg)](http://qiita.com/tokawa-ms)
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=tokawa-ms" />
+</div>
+
+[![Contributions](https://badgen.org/img/qiita/tokawa-ms/contributions?style=for-the-badge)](https://qiita.com/tokawa-ms)
+[![Articles](https://badgen.org/img/qiita/tokawa-ms/articles?style=for-the-badge)](https://qiita.com/tokawa-ms)
+[![Followers](https://badgen.org/img/qiita/tokawa-ms/followers?style=for-the-badge)](https://qiita.com/tokawa-ms)
 
 [![LinkedIn](https://img.shields.io/badge/-takashiokawa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takashiokawa/)](https://www.linkedin.com/in/takashiokawa/)
 
